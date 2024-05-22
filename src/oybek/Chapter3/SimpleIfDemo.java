@@ -9,7 +9,7 @@ public class SimpleIfDemo {
         int number = input.nextInt();
 
         if (number % 5 == 0)
-            System.out.println("Hifive");
+            System.out.println("HiFive");
         if (number % 2 == 0)
             System.out.println("HiEven");
     }
