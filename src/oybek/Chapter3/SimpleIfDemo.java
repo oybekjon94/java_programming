@@ -11,6 +11,6 @@ public class SimpleIfDemo {
         if (number % 5 == 0)
             System.out.println("Hifive");
         if (number % 2 == 0)
-            System.out.println("Hieven");
+            System.out.println("HiEven");
     }
 }
