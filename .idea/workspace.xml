@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: SubstractionQuiz">
-      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/TestBooleanOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: TestBooleanOperators">
+      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +57,13 @@
       <recent name="oybek.Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestBooleanOperators">
-    <configuration name="DisplayTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter2.DisplayTime" />
-      <module name="java_review" />
+  <component name="RunManager" selected="Application.LeapYear">
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.LeapYear" />
+      <module name="java_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oybek.Chapter2.*" />
+          <option name="PATTERN" value="oybek.Chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.TestBooleanOperators" />
         <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.SubstractionQuiz" />
         <item itemvalue="Application.SimpleIfDemo" />
-        <item itemvalue="Application.DisplayTime" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716549894114</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add: TestBooleanOperators">
+      <created>1716651520437</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716651520437</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +289,8 @@
     <MESSAGE value="add: AdditionQuiz" />
     <MESSAGE value="add: SimpleIfDemo" />
     <MESSAGE value="add: SubstractionQuiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: SubstractionQuiz" />
+    <MESSAGE value="add: TestBooleanOperators" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: TestBooleanOperators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
