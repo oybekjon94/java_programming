@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: TestBooleanOperators">
-      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/LeapYear.java" afterDir="false" />
+    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: LeapYear">
+      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/Lottery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +57,22 @@
       <recent name="oybek.Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeapYear">
+  <component name="RunManager" selected="Application.Lottery">
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.LeapYear" />
+      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lottery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Lottery" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
@@ -74,19 +87,6 @@
     <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Quiz" />
       <module name="java_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oybek.Chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleIfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.SimpleIfDemo" />
-      <module name="java_review" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oybek.Chapter3.*" />
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lottery" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.TestBooleanOperators" />
         <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.SubstractionQuiz" />
-        <item itemvalue="Application.SimpleIfDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716651520437</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add: LeapYear">
+      <created>1716652046288</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716652046288</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +297,8 @@
     <MESSAGE value="add: SimpleIfDemo" />
     <MESSAGE value="add: SubstractionQuiz" />
     <MESSAGE value="add: TestBooleanOperators" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: TestBooleanOperators" />
+    <MESSAGE value="add: LeapYear" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: LeapYear" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
