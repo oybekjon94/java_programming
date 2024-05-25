@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: SimpleIfDemo">
-      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/SubstractionQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_22_2024_1_47_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_5_22_2024_1_47_PM__Changes_.xml" afterDir="false" />
+    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: SubstractionQuiz">
+      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/TestBooleanOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,57 +41,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/power/IdeaProjects/java_programming",
-    "onboarding.tips.debug.path": "C:/Users/power/IdeaProjects/java_review/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/power/IdeaProjects/java_programming&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/power/IdeaProjects/java_review/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="oybek.Chapter2" />
       <recent name="oybek.Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubstractionQuiz">
-    <configuration name="ComputeAreaWithConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter2.ComputeAreaWithConstant" />
-      <module name="java_review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oybek.Chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComputeAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter2.ComputeAverage" />
-      <module name="java_review" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oybek.Chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestBooleanOperators">
     <configuration name="DisplayTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oybek.Chapter2.DisplayTime" />
       <module name="java_review" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oybek.Chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Quiz" />
+      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oybek.Chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestBooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.TestBooleanOperators" />
+      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBooleanOperators" />
+        <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.SubstractionQuiz" />
         <item itemvalue="Application.SimpleIfDemo" />
         <item itemvalue="Application.DisplayTime" />
-        <item itemvalue="Application.ComputeAverage" />
-        <item itemvalue="Application.ComputeAreaWithConstant" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716353059328</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add: SubstractionQuiz">
+      <created>1716549894114</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716549894114</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,7 +283,8 @@
     <MESSAGE value="add: DisplayTime" />
     <MESSAGE value="add: AdditionQuiz" />
     <MESSAGE value="add: SimpleIfDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: SimpleIfDemo" />
+    <MESSAGE value="add: SubstractionQuiz" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: SubstractionQuiz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
