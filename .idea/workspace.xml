@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: LeapYear">
-      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/Lottery.java" afterDir="false" />
+    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sardor/Chapter3/QuadraticProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
       <recent name="oybek.Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lottery">
+  <component name="RunManager" selected="Application.QuadraticProblem">
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.LeapYear" />
       <module name="java_programming" />
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Quiz" />
+    <configuration name="QuadraticProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sardor.Chapter3.QuadraticProblem" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="PATTERN" value="sardor.Chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstractionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.SubstractionQuiz" />
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Quiz" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuadraticProblem" />
+        <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.Lottery" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.TestBooleanOperators" />
-        <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.SubstractionQuiz" />
       </list>
     </recent_temporary>
   </component>
