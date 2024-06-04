@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: LeapYear">
-      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/Lottery.java" afterDir="false" />
+    <list default="true" id="8415c592-fdeb-48e9-9b1f-0099fca9bb42" name="Changes" comment="add: Lottery">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oybek/Chapter3/JOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oybek/gita/LeapYears_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oybek/gita/NextDateCalculator_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oybek/gita/PerfectNumbers_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oybek/gita/SmallestOfThree_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +45,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/power/IdeaProjects/java_programming&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/power/IdeaProjects/java_review/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/power/IdeaProjects/java_programming",
+    "onboarding.tips.debug.path": "C:/Users/power/IdeaProjects/java_review/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="oybek.Chapter2" />
       <recent name="oybek.Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lottery">
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.LeapYear" />
+  <component name="RunManager" selected="Application.PerfectNumbers_05">
+    <configuration name="JOption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.JOption" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lottery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Lottery" />
+    <configuration name="LeapYears_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.gita.LeapYears_02" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="PATTERN" value="oybek.gita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.Quiz" />
+    <configuration name="NextDateCalculator_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.gita.NextDateCalculator_04" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="PATTERN" value="oybek.gita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstractionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.SubstractionQuiz" />
+    <configuration name="PerfectNumbers_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.gita.PerfectNumbers_05" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="PATTERN" value="oybek.gita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oybek.Chapter3.TestBooleanOperators" />
+    <configuration name="SmallestOfThree_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oybek.gita.SmallestOfThree_01" />
       <module name="java_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oybek.Chapter3.*" />
+          <option name="PATTERN" value="oybek.gita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lottery" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.TestBooleanOperators" />
-        <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.SubstractionQuiz" />
+        <item itemvalue="Application.PerfectNumbers_05" />
+        <item itemvalue="Application.NextDateCalculator_04" />
+        <item itemvalue="Application.LeapYears_02" />
+        <item itemvalue="Application.SmallestOfThree_01" />
+        <item itemvalue="Application.JOption" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716652046288</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add: Lottery">
+      <created>1716653274185</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716653274185</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +312,8 @@
     <MESSAGE value="add: SubstractionQuiz" />
     <MESSAGE value="add: TestBooleanOperators" />
     <MESSAGE value="add: LeapYear" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: LeapYear" />
+    <MESSAGE value="add: Lottery" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: Lottery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -307,6 +322,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oybek/Chapter3/Lottery.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
